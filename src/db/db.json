@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Vernon Heaney",
+    "phone": "854.908.5552",
+    "email": "Gilberto_Keeling@gmail.com",
+    "job": "Future Branding Developer"
+  },
+  {
+    "name": "Eric Nader",
+    "phone": "796-452-6985 x9414",
+    "email": "Jaqueline.Schuster2@gmail.com",
+    "job": "Senior Infrastructure Administrator"
+  },
+  {
+    "name": "Faye DuBuque",
+    "phone": "900.781.0513 x4274",
+    "email": "Pearlie_Thiel@yahoo.com",
+    "job": "District Tactics Administrator"
+  }
+]
